@@ -1,4 +1,4 @@
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Stats</p>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Social Media</p>
+<h2 align="left">Social Media</h2>
 
 ###
 
